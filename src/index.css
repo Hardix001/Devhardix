@@ -147,3 +147,18 @@ form ::placeholder{
     border-radius: 4px;
     margin: 20px 0;
 }
+
+@media (max-width: 799px) {
+    header nav h1 {
+        font-size: 15px;
+       
+    }
+    header nav a.active {
+        font-size: 13px;
+    }
+    header nav a {
+        font-size: 13px;
+    }
+    
+}
+
