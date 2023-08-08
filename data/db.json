@@ -1,0 +1,68 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "Junior React Developer" ,
+            "salary": "3000",
+            "location": "Canada, CA"
+        },
+        {
+            "id": 2,
+            "title": "Carpenter" ,
+            "salary": "2000",
+            "location": "Nigeria"
+        },
+        {
+            "id": 3,
+            "title": "Physiotherapist" ,
+            "salary": "5000",
+            "location": "London, Uk"
+        },
+        {
+            "id": 4,
+            "title": "plumber" ,
+            "salary": "1500",
+            "location": "Liverpool, Uk"
+        },
+        {
+            "id": 5,
+            "title": "Tutorial master" ,
+            "salary": "4000",
+            "location": "Manchester, Uk"
+        },
+        
+        {
+            "id": 6,
+            "title": "Website manager" ,
+            "salary": "7500",
+            "location": "Munich, Germany"
+        },
+        
+        {
+            "id": 7,
+            "title": "Food Tester" ,
+            "salary": "1200",
+            "location": "Berlin, Germany"
+        }
+        
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
